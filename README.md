@@ -1,4 +1,4 @@
-![banner](https://res.cloudinary.com/jimmysong/image/upload/v1603294035/images/github-banner.jpg)
+![banner](https://res.cloudinary.com/jimmysong/image/upload/v1654070574/images/join-cloud-native-community.jpg)
 
 👉 [https://cloudnative.to](https://cloudnative.to)
 
