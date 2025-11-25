@@ -16,7 +16,7 @@ My focus is building **clear frameworks、systematic engineering methods、and v
   
 - AI Native Infra practitioner: RAG pipelines、vector search、LLM observability、retrieval engineering
   
-- Writer of **AI Handbook** and **multiple cloud-native books**, maintaining long-term technical blogs at [jimmysong.io](https://jimmysong.io/en/)
+- Writer of **AI Handbook** and **multiple cloud-native books**, maintaining long-term technical blogs at [jimmysong.io](https://jimmysong.io)
   
 - Founder of **Cloud Native Community (China)**, organizer of meetups and KCD Beijing
 
@@ -77,7 +77,7 @@ GitHub Actions、ArgoCD、Helm
 
 ### **Connect**
 
-- Website: [https://jimmysong.io](https://jimmysong.io/en/)
+- Website: [https://jimmysong.io](https://jimmysong.io)
   
 - GitHub: [https://github.com/rootsongjc](https://github.com/rootsongjc)
   
