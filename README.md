@@ -32,30 +32,13 @@ My focus is building **clear frameworks、systematic engineering methods、and v
   
 - Open-source ecosystem growth and community strategy
 
-
-### **Selected Work**
-
-#### **AI / RAG Projects**
-
-- **Tetrate Customer Support Bot**
-
-    Enterprise RAG system integrating BM25+FAISS hybrid retrieval, DataFrame Agents, and LLM-based summarization.
-
-- **Personal RAG Worker for jimmysong.io**
-
-    Cloudflare Workers–based full-site retrieval engine powering my blog’s interactive AI assistant.
-
-- **AI Handbook**
-
-    A deep-dive into AI Native Infra, LLM engineering, and RAG system design.
-
 #### **Cloud-native & Infra**
 
 - Kubernetes, Istio, Envoy, API Gateway, Zero Trust, multi-cluster platforms
   
 - Developer enablement frameworks、PoC systems、internal education platforms
   
-- Former Developer Advocate at **Tetrate** (Service Mesh leader)
+- Former Developer Advocate at **Tetrate**
 
 ### **Tech Stack**
 
