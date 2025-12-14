@@ -1,69 +1,43 @@
-## **👋 Hi, I’m Jimmy Song**
+## Hi, I’m Jimmy Song
 
-**Build AI with Clarity**
+AI-Native Infrastructure · Agentic Runtime · Developer Advocate · CNCF Ambassador
 
-Developer Advocate · CNCF Ambassador · AI Native Infrastructure
+I work on **how AI systems run in production**.
 
-I work at the intersection of **AI Native Infra、cloud-native architecture、open-source ecosystems**.
+My focus is not models, but the **infrastructure, runtime, and engineering discipline** required to make LLM and agent systems **reliable, observable, and evolvable** over time.
 
-My focus is building **clear frameworks、systematic engineering methods、and verifiable RAG/LLM pipelines** that help developers adopt modern infrastructure with confidence.
+### What I Work On
 
-### **About Me**
+- **AI-Native Infrastructure**
+   Runtime abstractions, resource scheduling, isolation, cost and lifecycle management for AI workloads.
+- **Agentic & RAG Systems**
+   Retrieval-augmented architectures, stateful agents, evaluation and observability of long-running AI systems.
+- **Engineering Methodology**
+   Turning AI from demos into systems: clear boundaries, verifiable pipelines, and repeatable delivery patterns.
+- **Open Source & Ecosystems**
+   Developer platforms, community-driven infrastructure, and sustainable open-source governance.
 
-- Developer Advocate with 12+ years in platform engineering, cloud-native, and open-source
-  
-- CNCF Ambassador and long-time contributor to Kubernetes / Istio / Envoy ecosystem
-  
-- AI Native Infra practitioner: RAG pipelines、vector search、LLM observability、retrieval engineering
-  
-- Writer of **AI Handbook** and **multiple cloud-native books**, maintaining long-term technical blogs at [jimmysong.io](https://jimmysong.io)
-  
-- Founder of **Cloud Native Community (China)**, organizer of meetups and KCD Beijing
+### Background
 
-### **Current Focus**
+- 12+ years in cloud-native and platform engineering
+- CNCF Ambassador, long-term contributor in the Kubernetes / service mesh ecosystem
+- Former Developer Advocate at Tetrate
+- Founder of Cloud Native Community (China)
 
-- AI Native Infrastructure and retrieval-augmented systems
-  
-- RAG engineering (chunking, vectorization, hybrid retrieval, pipeline observability)
-  
-- LLM application architecture, prompt frameworks, structured reasoning
-  
-- Developer workflows, platform experience, and technical content systems
-  
-- Open-source ecosystem growth and community strategy
+### Writing & Research
 
-#### **Cloud-native & Infra**
+- Author of **AI Handbook** (AI-native infrastructure & agentic runtime)
+- Long-term technical writing at https://jimmysong.io
 
-- Kubernetes, Istio, Envoy, API Gateway, Zero Trust, multi-cluster platforms
-  
-- Developer enablement frameworks、PoC systems、internal education platforms
-  
-- Former Developer Advocate at **Tetrate**
+### Core Skills
 
-### **Tech Stack**
+- **Languages**: Go, Python, TypeScript
+- **Platforms**: Kubernetes-centric infrastructure, distributed systems
+- **AI Systems**: RAG pipelines, agent runtime design, system observability
 
-**Languages**
+### Connect
 
-Go、Python、TypeScript
-
-**AI Infra**
-
-LangChain、vLLM、Cloudflare Workers、RAG pipelines
-
-**Cloud-native & Platform**
-
-Kubernetes、Istio、Envoy、Docker
-
-**Build & Delivery**
-
-GitHub Actions、ArgoCD、Helm
-
-### **Connect**
-
-- Website: [https://jimmysong.io](https://jimmysong.io)
-  
-- GitHub: [https://github.com/rootsongjc](https://github.com/rootsongjc)
-  
-- LinkedIn: [https://linkedin.com/in/jimmysongio](https://linkedin.com/in/jimmysongio)
-  
-- X (Twitter): [https://x.com/jimmysongio](https://x.com/jimmysongio)
+- Website: https://jimmysong.io
+- GitHub: https://github.com/rootsongjc
+- LinkedIn: https://linkedin.com/in/jimmysongio
+- X: https://x.com/jimmysongio
