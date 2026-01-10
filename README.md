@@ -1,6 +1,7 @@
 ## Hi, I’m Jimmy Song
 
-AI-Native Infrastructure · Agentic Runtime · Developer Advocate · CNCF Ambassador
+AI-Native Infrastructure · Agentic Runtime · Developer Advocate · CNCF Ambassador  
+Open-Source Ecosystem VP @ **Dynamia**
 
 I work on **how AI systems run in production**.
 
@@ -8,14 +9,21 @@ My focus is not models, but the **infrastructure, runtime, and engineering disci
 
 ### What I Work On
 
-- **AI-Native Infrastructure**
-   Runtime abstractions, resource scheduling, isolation, cost and lifecycle management for AI workloads.
-- **Agentic & RAG Systems**
-   Retrieval-augmented architectures, stateful agents, evaluation and observability of long-running AI systems.
-- **Engineering Methodology**
-   Turning AI from demos into systems: clear boundaries, verifiable pipelines, and repeatable delivery patterns.
-- **Open Source & Ecosystems**
-   Developer platforms, community-driven infrastructure, and sustainable open-source governance.
+- **AI-Native Infrastructure**  
+  Runtime abstractions, resource scheduling, isolation, cost and lifecycle management for AI workloads.
+
+- **GPU Scheduling & Virtualization (HAMi)**  
+  Building **HAMi** — GPU sharing/virtualization and scheduling for Kubernetes to improve utilization, governance, and multi-tenant efficiency.  
+  **Project:** https://github.com/Project-HAMi/HAMi
+
+- **Agentic & RAG Systems**  
+  Retrieval-augmented architectures, stateful agents, evaluation and observability of long-running AI systems.
+
+- **Engineering Methodology**  
+  Turning AI from demos into systems: clear boundaries, verifiable pipelines, and repeatable delivery patterns.
+
+- **Open Source & Ecosystems**  
+  Developer platforms, community-driven infrastructure, and sustainable open-source governance.
 
 ### Background
 
@@ -23,11 +31,6 @@ My focus is not models, but the **infrastructure, runtime, and engineering disci
 - CNCF Ambassador, long-term contributor in the Kubernetes / service mesh ecosystem
 - Former Developer Advocate at Tetrate
 - Founder of Cloud Native Community (China)
-
-### Writing & Research
-
-- Author of **AI Handbook** (AI-native infrastructure & agentic runtime)
-- Long-term technical writing at https://jimmysong.io
 
 ### Core Skills
 
