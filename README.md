@@ -1,7 +1,7 @@
 ## Hi, I’m Jimmy Song
 
 AI-Native Infrastructure · Agentic Runtime · Developer Advocate · CNCF Ambassador  
-Open-Source Ecosystem VP @ **Dynamia**
+Open-Source Ecosystem VP @ [Dynamia.ai](https://dynamia.ai)
 
 I work on **how AI systems run in production**.
 
